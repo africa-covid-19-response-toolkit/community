@@ -16,13 +16,13 @@ The Government of Ethiopia Ministry of Health team had two very specific asks to
 
 ### 1. Ways to push information out to the public via all available channels + in as many languages as possible:
   
-  a. Here is the data on the channels:
+  1. Here is the data on the channels:
     - SMS
     - Automated calls
     - USSD Channel push
     - Telegram & Facebook (usage is higher than WhatsApp)
 
-  b. Monitor and respond to fake news
+  2. Monitor and respond to fake news
     - Some mechanism to see the current conversation stream and respond to it in a targeted ways
 
 ### 2. Case Tracking
