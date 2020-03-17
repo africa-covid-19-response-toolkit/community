@@ -16,6 +16,8 @@ We need an army of tech volunteers to help the Ethiopian Ministry of Health coll
 
 3. Attend the daily conference call (TBD)
 
+4. Work on one of the first project
+
 ## Ongoing Projects
 
 1. First project: [Build a multi-channel, multi-lingual chat bot](https://github.com/Ethiopia-COVID19/bot)
