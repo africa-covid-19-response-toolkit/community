@@ -16,8 +16,10 @@ We need an army of tech volunteers to help the Ethiopian Ministry of Health coll
 
 3. Attend the daily conference call (TBD)
 
-## What has been done so far?
+## Ongoing Projects
 
-We are in the early stages of this effort and we welcome your ideas. Share it on the [Slack channel](http://ethiopia-covid19.slack.com/) or create a [GitHub issue](https://github.com/Ethiopia-COVID19/community/issues).
+1. First project: [Build a multi-channel, multi-lingual chat bot](https://github.com/Ethiopia-COVID19/bot)
 
-Meeting notes and other discussions will be in the [Wiki](https://github.com/Ethiopia-COVID19/community/wiki)
+## Got ideas?
+
+We are in the early stages of this effort and we welcome your ideas. Share it on the [Slack channel](https://join.slack.com/t/ethiopia-covid19/shared_invite/zt-cot4r5m9-47YX0QorlPbJm49vLq7GhQ) or create a [GitHub issue](https://github.com/Ethiopia-COVID19/community/issues). Meeting notes and other discussions will be in the [Wiki](https://github.com/Ethiopia-COVID19/community/wiki).
