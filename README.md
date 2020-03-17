@@ -12,7 +12,7 @@ We need an army of tech volunteers to help the Ethiopian Ministry of Health coll
 
 1. [Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform) to volunteer.
 
-2. Join the public [Slack channel](http://ethiopia-covid19.slack.com/)
+2. Join the public [Slack channel](https://join.slack.com/t/ethiopia-covid19/shared_invite/zt-cot4r5m9-47YX0QorlPbJm49vLq7GhQ)
 
 3. Attend the daily conference call (TBD)
 
