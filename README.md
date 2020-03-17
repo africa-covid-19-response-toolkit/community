@@ -19,3 +19,5 @@ We need an army of tech volunteers to help the Ethiopian Ministry of Health coll
 ## What has been done so far?
 
 We are in the early stages of this effort and we welcome your ideas. Share it on the [Slack channel](http://ethiopia-covid19.slack.com/) or create a [GitHub issue](https://github.com/Ethiopia-COVID19/community/issues).
+
+Meeting notes and other discussions will be in the [Wiki](https://github.com/Ethiopia-COVID19/community/wiki)
