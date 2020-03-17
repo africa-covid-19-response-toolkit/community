@@ -25,7 +25,7 @@ The Government of Ethiopia Ministry of Health team had two very specific asks to
   b. Monitor and respond to fake news
     - Some mechanism to see the current conversation stream and respond to it in a targeted ways
 
-# 2. Case Tracking
+### 2. Case Tracking
 
   1. Ways to tell if they have symptoms
   2. Patient self reporting (ability for them to report their status because they can not be kept in the hospital)
