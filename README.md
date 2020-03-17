@@ -10,7 +10,26 @@ We need an army of tech volunteers to help the Ethiopian Ministry of Health coll
 
 **This community believes that speed trumps perfection**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m no epidemiologist and no public health expert. I do believe passionately in science and also in <a href="https://twitter.com/hashtag/Factfulness?src=hash&amp;ref_src=twsrc%5Etfw">#Factfulness</a>. This man is the global authority on the spread of disease. If you are a leader (in any capacity) watch this. If you are not, watch it too. <a href="https://t.co/q0P3xaOVuS">pic.twitter.com/q0P3xaOVuS</a></p>&mdash; Conall McDevitt (@ConallMcD) <a href="https://twitter.com/ConallMcD/status/1238865202868883461?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## What is the needed?
+
+The Government of Ethiopia Ministry of Health team had two very specific asks to be delivered in 48 hours. 
+
+### 1. Ways to push information out to the public via all available channels + in as many languages as possible:
+  
+  a. Here is the data on the channels:
+    - SMS
+    - Automated calls
+    - USSD Channel push
+    - Telegram & Facebook (usage is higher than WhatsApp)
+
+  b. Monitor and respond to fake news
+    - Some mechanism to see the current conversation stream and respond to it in a targeted ways
+
+# 2. Case Tracking
+
+  1. Ways to tell if they have symptoms
+  2. Patient self reporting (ability for them to report their status because they can not be kept in the hospital)
+  3. Breakdown of patient types
 
 ## What can I do?
 
