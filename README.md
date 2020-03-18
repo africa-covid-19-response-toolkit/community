@@ -49,4 +49,6 @@ The Government of Ethiopia Ministry of Health team had two very specific asks to
 
 ## Got ideas?
 
-We are in the early stages of this effort and we welcome your ideas. Share it on the [Slack channel](https://join.slack.com/t/ethiopia-covid19/shared_invite/zt-cot4r5m9-47YX0QorlPbJm49vLq7GhQ) or create a [GitHub issue](https://github.com/Ethiopia-COVID19/community/issues). Meeting notes and other discussions will be in the [Wiki](https://github.com/Ethiopia-COVID19/community/wiki).
+We are in the early stages of this effort and we welcome your ideas. Share it on the [Slack channel](https://join.slack.com/t/ethiopia-covid19/shared_invite/zt-cot4r5m9-47YX0QorlPbJm49vLq7GhQ) or create a [GitHub issue](https://github.com/Ethiopia-COVID19/community/issues). 
+
+Meeting notes and other discussions will be in the [Wiki](https://github.com/Ethiopia-COVID19/community/wiki).
