@@ -43,6 +43,7 @@ The Government of Ethiopia Ministry of Health team had two very specific asks to
 
 ## Ongoing Projects
 
+1. [2 way SMS](https://github.com/Ethiopia-COVID19/Covid-19-SMS)
 1. [Build a multi-channel, multi-lingual chat bot](https://github.com/Ethiopia-COVID19/bot)
 2. [covid19.et](https://github.com/Ethiopia-COVID19/Covid19.ET) - A dashboard to collect and desciminate COVID19 information.
 
