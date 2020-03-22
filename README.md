@@ -33,6 +33,8 @@ The Government of Ethiopia Ministry of Health team had two very specific asks to
 
 ## What can I do?
 
+0. [Start here](https://drive.google.com/drive/folders/1NZpl0kq2j6paoQ43MJfgcz16Fvby5Y29), for meeting notes, public awareness assets, etc...
+
 1. [Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform) to volunteer.
 
 2. Join the public [Slack channel](https://join.slack.com/t/ethiopia-covid19/shared_invite/zt-cot4r5m9-47YX0QorlPbJm49vLq7GhQ)
