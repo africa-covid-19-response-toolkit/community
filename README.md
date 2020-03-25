@@ -2,7 +2,7 @@
 
 The COVID-19 virus is spreading across the world like a wildfire and Ethiopia has reported the first case on [March 13, 2020](http://www.moh.gov.et/ejcc/en/node/194). 
 
-We know from publicly available data that if urgent containment strategies implemented are not implemented, the virus will quickly get out of hand like in China, Italy, Spain, and now the US.
+We know from publicly available data that if urgent containment strategies are not implemented, the virus will spread quickly and get out of hand like in China, Italy, Spain, and now the US.
 
 Current projections, if left to its own devices, Ethiopia is roughly 19 - 23 days from reporting the 100th case and roughly 42 days behind Italy, which is considered the worst-case scenario.
 
@@ -12,7 +12,7 @@ We need an army of tech volunteers to help the Ethiopian Ministry of Health coll
 
 ## [What are the asks?](#asks)
 
-The Government of Ethiopia Ministry of Health team had two very specific asks to be delivered in 48 hours. 
+The Government of Ethiopia Ministry of Health team had two very specific tasks to be delivered in 48 hours.
 
 ### 1. Ways to push information out to the public via all available channels + in as many languages as possible:
   
