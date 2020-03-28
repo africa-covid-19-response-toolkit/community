@@ -1,3 +1,5 @@
+![](/media/covid19et_logo_wide--dark-on-yellow.png)
+
 # Welcome to the Ethiopia COVID-19 Response Task Force Community
 
 The COVID-19 virus is spreading across the world like a wildfire and Ethiopia has reported the first case on [March 13, 2020](http://www.moh.gov.et/ejcc/en/node/194). 
