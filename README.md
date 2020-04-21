@@ -16,15 +16,15 @@ Africa needs an army of tech volunteers from around the world to help African mi
 
 ## [What are the projects?](#projects)
 
-1. https://github.com/Ethiopia-COVID19/covid-19-bot-starter-kit 
-2. https://github.com/Ethiopia-COVID19/Covid19.ET 
-3. https://github.com/Ethiopia-COVID19/covid-19-sms 
-4. https://github.com/Ethiopia-COVID19/api-gateway 
-5. https://github.com/Ethiopia-COVID19/aws-infrastructure 
-6. https://github.com/Ethiopia-COVID19/covid-19-homepage 
-7. https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot 
-8. https://github.com/Ethiopia-COVID19/Project-Surveillance-Forms 
-9. https://github.com/Ethiopia-COVID19/covid-19-heroes-bot
+1. [API](https://github.com/Ethiopia-COVID19/api-gateway)
+2. [Internal Dashboard](https://github.com/Ethiopia-COVID19/Covid19.ET)
+3. [Surveillance Forms](https://github.com/Ethiopia-COVID19/Project-Surveillance-Forms)
+4. [Bot Starter Kit](https://github.com/Ethiopia-COVID19/covid-19-bot-starter-kit)
+5. [Housing Vacancy Telegram Bot](https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot)
+6. [Heroes Telegram Bot](https://github.com/Ethiopia-COVID19/covid-19-heroes-bot)
+7. [Awareness Mass SMS](https://github.com/Ethiopia-COVID19/covid-19-sms)
+8. [Awareness Website](https://github.com/Ethiopia-COVID19/covid-19-homepage)
+9. [AWS Infrastructure Templates](https://github.com/Ethiopia-COVID19/aws-infrastructure)
 
 ## What can I do?
 
