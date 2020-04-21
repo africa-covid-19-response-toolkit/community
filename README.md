@@ -2,38 +2,29 @@
   <img alt="ACRT Logo" src="/media/acrt_logo.png">
 </div>
 
-# Welcome to the Ethiopia COVID-19 Response Task Force Community
+# Welcome to the Africa COVID-19 Response Toolkit Community
 
-The COVID-19 virus is spreading across the world like a wildfire and Ethiopia has reported the first case on [March 13, 2020](http://www.moh.gov.et/ejcc/en/node/194). 
+The COVID-19 virus is spreading across the world like a wildfire across the globe, and now Africa.
 
 We know from publicly available data that if urgent containment strategies are not implemented, the virus will spread quickly and get out of hand like in China, Italy, Spain, and now the US.
 
 Current projections, if left to its own devices, Ethiopia is roughly 19 - 23 days from reporting the 100th case and roughly 42 days behind Italy, which is considered the worst-case scenario.
 
-We need an army of tech volunteers to help the Ethiopian Ministry of Health collect, analyze, and report to the agency so that we can assist them in the time of need. The better data collection/analysis/reporting there is, the better the response and the more effective the mitigation strategies will be. To do all this, software is needed, and that is where you come in! Whatever skills you have: whether that's programming, product/project management, design, etc. there is a way for you to contribute.
+Coronavirus cases in Africa could surge from just thousands now (April 20, 2020) to 10 million within three to six months, according to provisional modelling by the [World Health Organization (WHO)](https://www.aljazeera.com/news/2020/04/africa-coronavirus-cases-hit-10-million-months-200417055006127.html). The World Bank predicts that Sub-Saharan Africa might be the region [hardest hit](https://blogs.worldbank.org/opendata/impact-covid-19-coronavirus-global-poverty-why-sub-saharan-africa-might-be-region-hardest).
 
-**This community believes that speed trumps perfection**
+Africa needs an army of tech volunteers from around the world to help African ministries, hospitals, local manufacturers, local restuarants, and global organizations mitigate and help flatten the curve in Africa. Data collection/analysis/reporting, awareness dissemination, housing vacancy repoting, and survelliance for contact tracing can all be extremly helpful in assiting those in Africa. Software is needed, and that is where you, the community come in! Whatever skills you have: whether that's programming, product/project management, design, etc. there is a way for you to contribute.
 
-## [What are the asks?](#asks)
+## [What are the projects?](#projects)
 
-The Government of Ethiopia Ministry of Health team had two very specific tasks to be delivered in 48 hours.
-
-### 1. Ways to push information out to the public via all available channels + in as many languages as possible:
-  
-  1. Here is the data on the channels:
-    - SMS
-    - Automated calls
-    - USSD Channel push
-    - Telegram & Facebook (usage is higher than WhatsApp)
-
-  2. Monitor and respond to fake news
-    - Some mechanism to see the current conversation stream and respond to it in a targeted ways
-
-### 2. Case Tracking
-
-  1. Ways to tell if they have symptoms
-  2. Patient self reporting (ability for them to report their status because they can not be kept in the hospital)
-  3. Breakdown of patient types
+1. https://github.com/Ethiopia-COVID19/covid-19-bot-starter-kit 
+2. https://github.com/Ethiopia-COVID19/Covid19.ET 
+3. https://github.com/Ethiopia-COVID19/covid-19-sms 
+4. https://github.com/Ethiopia-COVID19/api-gateway 
+5. https://github.com/Ethiopia-COVID19/aws-infrastructure 
+6. https://github.com/Ethiopia-COVID19/covid-19-homepage 
+7. https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot 
+8. https://github.com/Ethiopia-COVID19/Project-Surveillance-Forms 
+9. https://github.com/Ethiopia-COVID19/covid-19-heroes-bot
 
 ## What can I do?
 
@@ -46,15 +37,6 @@ The Government of Ethiopia Ministry of Health team had two very specific tasks t
 3. Attend the daily conference call (TBD)
 
 4. Jump on and help on one of the projects
-
-## Ongoing Projects
-
-1. [2 way SMS](https://github.com/Ethiopia-COVID19/Covid-19-SMS)
-2. [Build a multi-channel, multi-lingual chat bot](https://github.com/Ethiopia-COVID19/bot)
-3. [covid19.et](https://github.com/Ethiopia-COVID19/Covid19.ET) - A dashboard to collect and desciminate COVID19 information.
-4. [Tracking System](https://github.com/nabiloo19/Covid19Ethiopia "Tracking System") - Tracking System
-5. [Important Links](https://github.com/nabiloo19/Covid19-Ethiopia-Links "Important Links") - Where all trusted news, info and updates are found with the help of the community crowdsourcing capability.
-
 
 ## Got ideas?
 
