@@ -1,4 +1,6 @@
-![](/media/covid19et_logo_wide--dark-on-yellow.png)
+<div align="center">
+  <img alt="ACRT Logo" src="/media/acrt_logo.png" width="650px">
+</div>
 
 # Welcome to the Ethiopia COVID-19 Response Task Force Community
 
