@@ -14,7 +14,7 @@ Coronavirus cases in Africa could surge from just thousands now (April 20, 2020)
 
 Africa needs an army of tech volunteers from around the world to help African ministries, hospitals, local manufacturers, local restuarants, and global organizations mitigate and help flatten the curve in Africa. Data collection/analysis/reporting, awareness dissemination, housing vacancy repoting, and survelliance for contact tracing can all be extremly helpful in assiting those in Africa. Software is needed, and that is where you, the community come in! Whatever skills you have: whether that's programming, product/project management, design, etc. there is a way for you to contribute.
 
-## [What are the projects?](#projects)
+## What are the projects?
 
 1. [API](https://github.com/Ethiopia-COVID19/api-gateway)
 2. [Internal Dashboard](https://github.com/Ethiopia-COVID19/Covid19.ET)
@@ -26,20 +26,16 @@ Africa needs an army of tech volunteers from around the world to help African mi
 8. [Awareness Website](https://github.com/Ethiopia-COVID19/covid-19-homepage)
 9. [AWS Infrastructure Templates](https://github.com/Ethiopia-COVID19/aws-infrastructure)
 
-## What can I do?
+## 🇪🇹 Ethiopia
 
-0. [Start here](https://drive.google.com/drive/folders/1NZpl0kq2j6paoQ43MJfgcz16Fvby5Y29), for meeting notes, public awareness assets, etc...
+1. [Start here](https://drive.google.com/drive/folders/1NZpl0kq2j6paoQ43MJfgcz16Fvby5Y29), for meeting notes, public awareness assets, etc...
 
-1. [Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform) to volunteer.
+2. [Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform) to volunteer.
 
-2. Join the public [Slack channel](https://join.slack.com/t/ethiopia-covid19/shared_invite/zt-cot4r5m9-47YX0QorlPbJm49vLq7GhQ)
+3. Join the public [Slack channel](https://join.slack.com/t/ethiopia-covid19/shared_invite/zt-cot4r5m9-47YX0QorlPbJm49vLq7GhQ).
 
-3. Attend the daily conference call (TBD)
-
-4. Jump on and help on one of the projects
+4. Take up any existing issue in [the core projects above](https://github.com/search?q=topic%3Aafrica-covid-19+org%3AEthiopia-COVID19).
 
 ## Got ideas?
 
-We are in the early stages of this effort and we welcome your ideas. Share it on the [Slack channel](https://join.slack.com/t/ethiopia-covid19/shared_invite/zt-cot4r5m9-47YX0QorlPbJm49vLq7GhQ) or create a [GitHub issue](https://github.com/Ethiopia-COVID19/community/issues). 
-
-Meeting notes and other discussions will be in the [Wiki](https://github.com/Ethiopia-COVID19/community/wiki).
+We are in the early stages of this effort and we welcome your ideas. Create a [GitHub issue](https://github.com/Ethiopia-COVID19/community/issues).
