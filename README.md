@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="ACRT Logo" src="/media/acrt_logo.png" width="650px">
+  <img alt="ACRT Logo" src="/media/acrt_logo.png">
 </div>
 
 # Welcome to the Ethiopia COVID-19 Response Task Force Community
