@@ -24,15 +24,12 @@ Africa needs an army of tech volunteers from around the world to help African mi
 8. [Awareness Website](https://github.com/Ethiopia-COVID19/covid-19-homepage)
 9. [AWS Infrastructure Templates](https://github.com/Ethiopia-COVID19/aws-infrastructure)
 
-## 🇪🇹 Ethiopia
+## These are the countries using the Toolkit and ways in which it has been used.
 
-1. [Start here](https://drive.google.com/drive/folders/1NZpl0kq2j6paoQ43MJfgcz16Fvby5Y29), for meeting notes, public awareness assets, etc...
+### 🇪🇹 Ethiopia
 
-2. [Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform) to volunteer.
-
-3. Join the public [Slack channel](https://join.slack.com/t/ethiopia-covid19/shared_invite/zt-cot4r5m9-47YX0QorlPbJm49vLq7GhQ).
-
-4. Take up any existing issue in [the core projects above](https://github.com/search?q=topic%3Aafrica-covid-19+org%3AEthiopia-COVID19).
+1. [Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform) to volunteer.
+2. Take up any existing issue in [the core projects above](https://github.com/search?q=topic%3Aafrica-covid-19+org%3AEthiopia-COVID19).
 
 ## Got ideas?
 
