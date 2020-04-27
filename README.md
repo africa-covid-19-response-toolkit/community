@@ -23,6 +23,7 @@ Africa needs an army of tech volunteers from around the world to help African mi
 7. [Awareness SMS](https://github.com/africa-covid-19-response-toolkit/awareness-sms) - Node.js wrapper for Africa’s Talking SMS API. Allows government entities to send mass SMS to text the public critical COVID-19 related information.
 8. [Awareness Website](https://github.com/africa-covid-19-response-toolkit/awareness-website) - A static public website that any government body can use to spread awareness about COVID-19 to their population.
 9. [AWS Infrastructure Templates](https://github.com/africa-covid-19-response-toolkit/aws-infrastructure) - AWS CloudFormation and Terraform templates to bootstrap AWS resources for ACRT projects.
+10. [Emergency Relief Package Tracker](https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker) - Web app that allows organizations to track and manage the distribution of emergency relief packages.
 
 ## Get involved
 
