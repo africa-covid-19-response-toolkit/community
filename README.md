@@ -12,7 +12,7 @@ Coronavirus cases in Africa could surge from just thousands now (April 20, 2020)
 
 Africa needs an army of tech volunteers from around the world to help African ministries, hospitals, local manufacturers, local restuarants, and global organizations mitigate and help flatten the curve in Africa. Data collection/analysis/reporting, awareness dissemination, housing vacancy repoting, and survelliance for contact tracing can all be extremly helpful in assiting those in Africa. Software is needed, and that is where you, the community come in! Whatever skills you have: whether that's programming, product/project management, design, etc. there is a way for you to contribute.
 
-## What are the projects?
+## The projects
 
 1. [API](https://github.com/Ethiopia-COVID19/api-gateway)
 2. [Internal Dashboard](https://github.com/Ethiopia-COVID19/Covid19.ET)
@@ -24,13 +24,12 @@ Africa needs an army of tech volunteers from around the world to help African mi
 8. [Awareness Website](https://github.com/Ethiopia-COVID19/covid-19-homepage)
 9. [AWS Infrastructure Templates](https://github.com/Ethiopia-COVID19/aws-infrastructure)
 
-## These are the countries using the Toolkit and ways in which it has been used.
+## Get involved
+
+Hop in and take up any existing issue in [the core projects above](https://github.com/search?q=topic%3Aafrica-covid-19+org%3Aafrica-covid-19-response-toolkit+type%3AIssues+is%3Aopen&type=Issues).
+
+## Countries using the Toolkit
 
 ### 🇪🇹 Ethiopia
 
-1. [Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform) to volunteer.
-2. Take up any existing issue in [the core projects above](https://github.com/search?q=topic%3Aafrica-covid-19+org%3AEthiopia-COVID19).
-
-## Got ideas?
-
-We are in the early stages of this effort and we welcome your ideas. Create a [GitHub issue](https://github.com/Ethiopia-COVID19/community/issues).
+[Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform) to volunteer.
