@@ -14,15 +14,15 @@ Africa needs an army of tech volunteers from around the world to help African mi
 
 ## The projects
 
-1. [API](https://github.com/Ethiopia-COVID19/api-gateway)
-2. [Internal Dashboard](https://github.com/Ethiopia-COVID19/Covid19.ET)
-3. [Surveillance Forms](https://github.com/Ethiopia-COVID19/Project-Surveillance-Forms)
-4. [Bot Starter Kit](https://github.com/Ethiopia-COVID19/covid-19-bot-starter-kit)
-5. [Housing Vacancy Telegram Bot](https://github.com/Ethiopia-COVID19/Hotel-Vacancy-Telegram-Bot)
-6. [Heroes Telegram Bot](https://github.com/Ethiopia-COVID19/covid-19-heroes-bot)
-7. [Awareness Mass SMS](https://github.com/Ethiopia-COVID19/covid-19-sms)
-8. [Awareness Website](https://github.com/Ethiopia-COVID19/covid-19-homepage)
-9. [AWS Infrastructure Templates](https://github.com/Ethiopia-COVID19/aws-infrastructure)
+1. [API](https://github.com/africa-covid-19-response-toolkit/api) - Core API for Africa COVID-19 Response Toolkit. Ingests and pushes data to Toolkit components.
+2. [Internal Dashboard](https://github.com/africa-covid-19-response-toolkit/internal-dashboard) - Internal dashboard for officials to get real time data and updates on COVID-19 on surveillance, case tracking, and monitoring.
+3. [Surveillance Forms](https://github.com/africa-covid-19-response-toolkit/surveillance-forms) - Online forms for reporting rumored COVID-19 cases.
+4. [Bot Starter Kit](https://github.com/africa-covid-19-response-toolkit/covid-19-bot-starter-kit) - A basic template/starter kit for building a Messenger or Telegram bot integrated with the core Africa COVID-19 Response Toolkit (ACRT) API.
+5. [Housing Vacancy Telegram Bot](https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot) - A Telegram bot that allows housing officials/owners to report vacancy to a central source and allows health works/government officials to consume that information.
+6. [Heroes Telegram Bot](https://github.com/africa-covid-19-response-toolkit/covid-19-heroes-bot) - A Telegram bot that allows frontline healthcare workers to log symptoms they are experiencing, get counseling, best practice information, logistical assistance and provide creative ways to distress.
+7. [Awareness SMS](https://github.com/africa-covid-19-response-toolkit/awareness-sms) - Node.js wrapper for Africa’s Talking SMS API. Allows government entities to send mass SMS to text the public critical COVID-19 related information.
+8. [Awareness Website](https://github.com/africa-covid-19-response-toolkit/awareness-website) - A static public website that any government body can use to spread awareness about COVID-19 to their population.
+9. [AWS Infrastructure Templates](https://github.com/africa-covid-19-response-toolkit/aws-infrastructure) - AWS CloudFormation and Terraform templates to bootstrap AWS resources for Africa COVID-19 Response Toolkit projects.
 
 ## Get involved
 
