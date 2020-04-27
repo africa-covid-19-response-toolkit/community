@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="ACRT Logo" src="/media/acrt_logo_green.png">
+  <img alt="ACRT Logo" src="/media/acrt_logo_black.png">
 </div>
 
 # Africa COVID-19 Response Toolkit (ACRT) Community
