@@ -33,4 +33,4 @@ Hop in and take up any existing issue in [the core projects above](https://githu
 
 ### 🇪🇹 Ethiopia
 
-[Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform) to volunteer.
+[Sign up to volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdYEaHBgkJpolgbrD3Y8ESbiDsx-WPY-S1j6hcNaq2KCthIBA/viewform).
